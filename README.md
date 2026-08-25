@@ -59,16 +59,16 @@ I'm a mobile engineer with **6+ years of experience** shipping production apps f
 🕸️ Kotlin/JS + Compose HTML (Kobweb)\
 🍵 Java · 🐍 Python · 🌐 HTML, CSS, JavaScript
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osindoxavier&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osindoxavier&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,javascript,jupyter%20notebook,python,java&exclude_repo=fullPage.js,python-data-science" alt="Top languages" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=osindoxavier&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
+</p> -->
 
 ## 🤝 Let's Connect
 
