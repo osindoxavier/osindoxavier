@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:3840/format:webp/1*zy5IG2inEQSqeWyPJ7vo-g.gif)](https://github.com/osindoxavier)
+[![Francis Xavier Osindo — Senior Mobile & Backend Engineer](./assets/banner.svg)](https://francis-xavier-osindo-portfolio.osisxavier.workers.dev)
 
 <h1 align="center">Hi there 👋 I'm Francis Xavier Osindo</h1>
 <h3 align="center">Senior Mobile &amp; Backend Engineer — Native Android · Native iOS · Kotlin Multiplatform · Spring Boot</h3>
