@@ -38,8 +38,11 @@ I turn complex requirements, in **any industry**, into reliable products people 
 
 ## 🚀 Selected Work
 
-**Hela Pesa** — *Consumer app · Android + iOS*\
+**[Hela Pesa](https://play.google.com/store/apps/details?id=ke.co.helapesa.android.helapesa)** — *Consumer app · Android + iOS*\
 Took the product from zero to Play Store launch: onboarding, lending, repayments, account management, and statements. Led Android architecture, releases, and production monitoring, and built the native iOS expansion. 500K+ MAU, 99.97% crash-free, 85% install growth in 28 days, and 89% release adoption within an hour.
+
+**[Beavers Credit](https://play.google.com/store/apps/details?id=ke.co.beaverscredit.app)** — *Consumer lending · Native Android*\
+Published Android product for employees of partner companies in Kenya, combining personal loans and smartphone financing with application tracking, repayment management, credit insights, KYC, PIN, and biometric access.
 
 **Secure Field Banking** — *Enterprise Android · Compulynx*\
 Branch-staff app for KYC, biometric authentication, and secure fund disbursement. Offline-first Room + WorkManager sync with zero data loss through network outages, and automated signed builds that cut release prep by 60%.
